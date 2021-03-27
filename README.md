@@ -1,1 +1,1 @@
-# Custom_object_detection
+#Object detection is a computer vision technique for locating instances of objects in images or videos. Object detection algorithms typically leverage machine learning or deep learning to produce meaningful results. The goal of object detection is to replicate this intelligence using a computer.
